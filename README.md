@@ -1,4 +1,4 @@
-# Porte de poulailler v2 commandée par Wifi
+# Porte de poulailler commandée par Wifi
 
 ## Fonctionnement
 Pour fixer l'heure sur la rtc : https://github.com/NorthernWidget/DS3231
