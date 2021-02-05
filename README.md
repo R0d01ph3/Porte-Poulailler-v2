@@ -43,11 +43,12 @@ Librairies
 - un module AMS 1117 pour convertir le 12v en 3v3 pour l'esp (ne pas utiliser le 3v3 de l'arduino qui ets trop faible)
 
 ## Module wifi
-Pour flasher l'esp8266 j'ai utilisé https://tasmota.github.io/docs/Getting-Started/
-j'ai configuré le tasmota en generic (18)
-j'ai mis le GPIO0 en mode relay (ouverture)
-j'ai mis le GPIO2 en mode relay (fermeture)
-Il y a plein d'options dans le mode console (en particulier pour renommer les boutons et fixer une ip)
+Pour flasher l'esp8266 j'ai utilisé https://tasmota.github.io/docs/Getting-Started/  
+j'ai configuré le tasmota en generic (18)  
+j'ai mis le GPIO0 en mode relay (ouverture)  
+j'ai mis le GPIO2 en mode relay (fermeture)  
+Il y a plein d'options dans le mode console (en particulier pour renommer les boutons et fixer une ip)  
+Petite restriction restriction pour valider l'ouverture je suis obligé de cliquer deux fois sur le bouton sur l'interface web  
 
 ## Cablage
 Voir fritzing ou image
